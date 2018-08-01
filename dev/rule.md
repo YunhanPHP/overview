@@ -2,6 +2,7 @@
 
 ## 必选规范
 - [phpcs](rule/phpcs.md): 代码格式规范
+    - PSR2 [英文](https://www.php-fig.org/psr/psr-2/) [中文](https://segmentfault.com/a/1190000002521620)
 - [phpmd](rule.md)：代码优化提示
 - [phan](rule/phan.md)：代码静态分析
 
