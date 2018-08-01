@@ -4,7 +4,7 @@
 - [环境初始化](init/init.md)
 - [项目初始化](init/new-project.md)
 - [开发规范](dev/rule.md)
-- [学习路径](learn-road.md)
+- [学习路径](learn/learn-road.md)
 
 ## 关注
 - [laravel 社区](https://laravel-china.org/)
@@ -12,4 +12,4 @@
 
 ## 其它
 ### laravel 插件解读
-- [dingo-api](laravel/plugins/dingo-api.md)
+- [dingo-api](learn/laravel/plugins/dingo-api.md)
