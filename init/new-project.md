@@ -9,3 +9,7 @@ composer global require yunhanphp/lumen-installer
 # 初始化项目
 lumen-app new 项目名
 ````
+
+## 相关文档
+- [Lumen 详细安装文档](https://lumen.laravel.com/docs)
+- [Laravel 详细安装文档](https://laravel.com/docs)
