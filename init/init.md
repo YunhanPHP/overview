@@ -20,7 +20,7 @@ composer config -g repo.packagist composer https://packagist.phpcomposer.com
 - [破解](http://idea.lanyus.com/)
 - 安装插件：PhpStorm -> Preferences -> Plugins -> Browse repositories...
 
-### 好用的插件
+### 必装插件
 - [PHP_CS](../dev/rule/phpcs.md)
 - [PHP_MD](../dev/rule/phpmd.md)
 - Laravel 智能提示
@@ -40,4 +40,4 @@ composer config -g repo.packagist composer https://packagist.phpcomposer.com
         PhpStorm -> Preferences -> Languages & Frameworks -> PHP -> Laravel（勾选两个选项）
         ````
 - [xdebug](init/xdebug.md)：断点调试
-- Swagger Plugin：只能提示swagger yaml文档编写
+- Swagger Plugin：智能提示swagger yaml文档编写
