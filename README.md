@@ -2,6 +2,7 @@
 
 ## 相关文档
 - [环境初始化](init/init.md)
+- [项目初始化](init/new-project.md)
 - [开发规范](dev/rule.md)
 - [学习路径](learn-road.md)
 

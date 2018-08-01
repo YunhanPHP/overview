@@ -39,5 +39,5 @@ composer config -g repo.packagist composer https://packagist.phpcomposer.com
         ````
         PhpStorm -> Preferences -> Languages & Frameworks -> PHP -> Laravel（勾选两个选项）
         ````
-- [xdebug](xdebug.md)：断点调试
+- [xdebug](init/xdebug.md)：断点调试
 - Swagger Plugin：只能提示swagger yaml文档编写
