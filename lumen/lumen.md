@@ -6,7 +6,7 @@
 
 ## 集成
 - [开发环境集成](https://github.com/YunhanPHP/lumen-require-dev)
-- `todo` 生产环境集成
+- [生产环境集成](https://code.aliyun.com/jqb-php/lumen-require)：暂时仅供内部使用
 
 ## 整体规范
 ### 必须遵守
