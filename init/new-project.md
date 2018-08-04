@@ -1,7 +1,7 @@
 # 项目初始化
 ````
 # 指定路径，保证最新安装工具
-composer global config repositories.0 git https://github.com/YunhanPHP/lumen-installer.git
+composer global config repositories.lumen-installer git https://github.com/YunhanPHP/lumen-installer.git
 
 # 下载安装工具
 composer global require yunhanphp/lumen-installer
