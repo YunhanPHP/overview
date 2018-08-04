@@ -7,7 +7,7 @@ composer global config repositories.0 git https://github.com/YunhanPHP/lumen-ins
 composer global require yunhanphp/lumen-installer
 
 # 初始化项目
-lumen-app new 项目名
+lumen-app new 项目名 --inner
 ````
 
 ## 相关文档
