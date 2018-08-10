@@ -4,6 +4,9 @@
 - 尽可能复用代码，尽可能统一规范
 - 尽可能复用代码，尽可能统一规范
 
+## 框架工具
+- [常用方法](https://laravel.com/docs/5.6/helpers)
+
 ## 集成
 - [开发环境集成](https://github.com/YunhanPHP/lumen-require-dev)
 - [生产环境集成](https://code.aliyun.com/jqb-php/lumen-require)：暂时仅供内部使用
