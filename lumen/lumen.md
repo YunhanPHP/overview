@@ -6,6 +6,7 @@
 
 ## 框架工具
 - [常用方法](https://laravel.com/docs/5.6/helpers)
+- [数组深度处理](https://laravel.com/docs/5.6/collections)
 
 ## 集成
 - [开发环境集成](https://github.com/YunhanPHP/lumen-require-dev)
