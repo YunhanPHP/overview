@@ -12,5 +12,5 @@
 ![commit](rule/commit.png)
 
 ## 其它待商讨规范
-- yaml 文档
+- [yaml 文档](https://www.jianshu.com/p/97222440cd08)
 - phpunit 测试用例
