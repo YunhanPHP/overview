@@ -19,6 +19,7 @@ composer config -g repo.packagist composer https://packagist.phpcomposer.com
 - [下载安装](https://www.jetbrains.com/phpstorm/)
 - [破解](http://idea.lanyus.com/)
 - 安装插件：PhpStorm -> Preferences -> Plugins -> Browse repositories...
+    - 安装超时解决：关闭 PhpStorm -> Preferences -> Appearance & Behavior -> System Settings -> Updates -> Use secure Connection
 
 ### 必装插件
 - [PHP_CS](../dev/rule/phpcs.md)
